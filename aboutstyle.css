@@ -30,7 +30,7 @@ body {
 .v2_2 {
   width: 100%;
   height: 988px;
-  background: black;
+  background: linear-gradient(rgba(132,94,59,1), rgba(132,94,59,0));
   opacity: 1;
   position: absolute;
   top: 9px;
